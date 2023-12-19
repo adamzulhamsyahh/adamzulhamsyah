@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmohamednageh7&psig=AOvVaw14MvRB40yDsvDDbUhXTHOy&ust=1703057973911000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLim7MH_moMDFQAAAAAdAAAAABAi)]([https://rishavchanda.io](http://ww25.rishavchanda.io/?subid1=20231219-1841-46d4-9561-9ca32e199801))
+[![MasterHead](https://camo.githubusercontent.com/50232e38d9f3ecbf0985919d42b6c7b7de64c2e6039f4b23d12ca518f61a3830/68747470733a2f2f63646e2e766964656f706c617374792e636f6d2f616e696d6174696f6e2f6368696c6c2d636f64696e672d70726f6772616d6d696e672d6c6f2d66692d616e696d6174696f6e2d73746f636b2d616e696d6174696f6e2d32313837342d31303234783537362e6a7067)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Adam Zulhamsyah</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
