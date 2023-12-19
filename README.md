@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adam Zulhamsyah</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://png.pngtree.com/element_our/20200609/ourlarge/pngtree-children-s-software-programming-image_2230759.jpg)">
+<img align="right" alt="Coding" width="400" src="[https://png.pngtree.com/element_our/20200609/ourlarge/pngtree-children-s-software-programming-image_2230759.jpg]">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adamzulhamsyahh&label=Profile%20views&color=0e75b6&style=flat" alt="adamzulhamsyahh" /> </p>
 
